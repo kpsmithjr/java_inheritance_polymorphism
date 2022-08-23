@@ -32,8 +32,5 @@ public class MotorVehicle {
 
         MotorVehicle ford = new Truck("Ford", 4, "gas", 40);
         ford.beep();
-
-        Shape square = new Sqaure(10);
-        square.getArea();
     }
 }
